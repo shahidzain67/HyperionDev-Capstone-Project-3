@@ -1,0 +1,8 @@
+Total number of users:	 1
+Total number of tasks:	 2
+
+Total number of tasks assigned to user:	 1
+% of total tasks assigned to user:			 50.0
+% of tasks completed:					  0.0
+% of tasks incomplete:					  0.0
+% of tasks overdue:						  0.0
